@@ -4,3 +4,7 @@ E:\prog\WinForms\Cone_volume\Cone_volume\x64\Debug\Cone_volume.vcxproj.GenerateR
 E:\prog\Код\WinForms\Cone_volume\Cone_volume\x64\Debug\Cone_volume.vcxproj.AssemblyReference.cache
 E:\prog\Код\WinForms\Cone_volume\Cone_volume\x64\Debug\Conevolume.MyForm.resources
 E:\prog\Код\WinForms\Cone_volume\Cone_volume\x64\Debug\Cone_volume.vcxproj.GenerateResource.cache
+E:\prog\Git\calculator_Cone_volume_WinForms\Cone_volume\x64\Debug\Cone_volume.vcxproj.AssemblyReference.cache
+E:\prog\Git\calculator_Cone_volume_WinForms\Cone_volume\x64\Debug\Cone_volume.vcxproj.SuggestedBindingRedirects.cache
+E:\prog\Git\calculator_Cone_volume_WinForms\Cone_volume\x64\Debug\Conevolume.MyForm.resources
+E:\prog\Git\calculator_Cone_volume_WinForms\Cone_volume\x64\Debug\Cone_volume.vcxproj.GenerateResource.cache
