@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+E:\prog\Код\WinForms\Cone_volume\Cone_volume\MyForm.h(235,8): warning C4305: =: усечение из "double" в "float"
+E:\prog\Код\WinForms\Cone_volume\Cone_volume\MyForm.h(235,32): warning C4305: =: усечение из "double" в "float"
+E:\prog\Код\WinForms\Cone_volume\Cone_volume\MyForm.cpp(7,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Cone_volume.vcxproj -> E:\prog\Код\WinForms\Cone_volume\x64\Debug\Cone_volume.exe
